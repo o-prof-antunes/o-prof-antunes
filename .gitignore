@@ -1,0 +1,32 @@
+# Git worktrees locais
+.worktrees/
+worktrees/
+
+# Arquivos intermediários e scripts de geração local do CV/apresentação
+.build/
+cv/.build/
+
+# Material exclusivo do professor (regra padrão do acervo)
+gabarito/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Dependências e caches comuns
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+vendor/
+
+# Logs e arquivos temporários de sistema/IDE
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -4,16 +4,12 @@
 
 > **“Simplifico contabilidade, economia, finanças e tecnologia para pessoas e empresas.”**
 
-<img src="assets/retrato-marcos-antunes.jpg" alt="Retrato do Prof. Marcos Antunes" width="185" align="right" />
-
 Sou **Marcos Antunes**, economista (**CORECON 31155**), contabilista (**CRC 1SP337309**), Licenciado em Informática e pós-graduado em Coordenação Pedagógica e em Gestão Estratégica em Vendas (MBA FGV), com base em **São Manuel (SP)**. Ao longo de mais de duas décadas entre a sala de aula, a gestão empresarial e projetos de tecnologia da informação, construí uma atuação prática voltada a traduzir números, normas fiscais e decisões estratégicas em ferramentas acessíveis para estudantes e empresas.
 
 Atualmente atuo como **Professor do Ensino Médio e Técnico na ETEC (Centro Paula Souza)**, **Consultor de Inteligência Empresarial na Ne4x Consulting**, **Fundador e Diretor Executivo da Ne4x — Informática e Tecnologia** e **Contabilista Autônomo (CRC 1SP337309)**.
 
 - **Currículo completo:** [Markdown](cv/curriculo-marcos-antunes.md) · [PDF Editorial](cv/curriculo-marcos-antunes.pdf) · [Arte Visual (PNG)](cv/curriculo-marcos-antunes-arte.png) · [Word DOC](cv/curriculo-marcos-antunes.doc) · [Word DOCX](cv/curriculo-marcos-antunes.docx)
 - **Apresentação institucional:** [Apresentação Interativa (HTML)](cv/apresentacao-marcos-antunes.html) · [PDF (16:9)](cv/apresentacao-marcos-antunes.pdf) · [PowerPoint (PPTX)](cv/apresentacao-marcos-antunes.pptx)
-
-<br clear="all" />
 
 ---
 
